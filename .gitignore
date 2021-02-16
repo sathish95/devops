@@ -1,0 +1,14 @@
+k8s/pi/myhero/k8s_myhero_spark.yml
+k8s/pi/myhero/k8s_myhero_ui.yml
+k8s/gce/k8s_myhero_ui.yml
+k8s/gce/k8s_myhero_spark.yml
+k8s/pi/myhero/k8s_myhero_ingress.yml
+k8s/gce/k8s_myhero_ingress.yml
+k8s/gce/k8s_myhero_tropo.template
+helm
+drone/values.yaml
+drone/secrets.txt
+gogs/values.yaml
+gogs/secrets.txt
+k8s/gce/k8s_myhero_ingress.ccp
+.DS_Store
